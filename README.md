@@ -187,5 +187,4 @@ How could your project grow and become something even more? What kind of skills,
 Focus on building a robust MVP using tools like Lovable for rapid prototyping, then expand through user acquisition strategies such as AI-driven content marketing and partnerships with beauty brands, while securing funding via accelerators or investors; i will need skills in AI/ML, app development, UI/UX design, and busines acumen like growth hacking, plus external help from mentors in tech startus, co-funders for marketing, and resources like incubators or communities on platforms.
 
 ## Acknowledgments
-[makeup]([
-](https://stockcake.com/i/cluttered-makeup-table_1229998_383128)
+[makeup](https://stockcake.com/i/cluttered-makeup-table_1229998_383128)
