@@ -12,8 +12,8 @@ To those who have never had the time or opportunity to learn and use makeup meth
 The problem I want to solve is how to enable every girl to find products and makeup looks that suit her in the shortest time and the lowest cost. Makeup is something that girls will do for relatively important occasions, so what kind of makeup look, or what products can achieve the desired makeup effect, is something that girls need to spend time searching and learning about. My wife is someone who doesn't know much about makeup, but every time i see her trying different ones, and i feel that the cosmetics she buys are not very suitable for her face, every time i see her dejectedly removing her makeup, i really want to help her find a makeup look that suits her, along with techniques and steps as well as product recommendations for her, so that she won't spend too much time and energy searching for this information. 
 
 This is how you make a list, if you need one:
-* problem 1 Don't know what are the products suit customer skin type
-* problem 2 Don't know which methods can help customer's makeup look better without any problems. 
+* problem 1 Doesn't know which products suit customer's skin type
+* problem 2 Doesn't know which methods can help customer's makeup look better without any problems. 
 * etc.
 
 
